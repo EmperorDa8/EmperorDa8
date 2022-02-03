@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmperorDa8
-- 👀 I’m interested in moblie apps development like kivymd,python automation and web development
+- 👀 I’m interested in data science,python automation and web development
 - 🌱 I’m currently learning professional python google automation
-- 💞️ I’m looking to collaborate on kivymd mobile development and python automation
+- 💞️ I’m looking to collaborate on any python project and python automation to up my skills and gain experience
 - 📫 How to reach me through my email address(uabdul88@gmail.com) and twitter handle(@UsmanDanAbdull1)
 
 <!---
