@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmperorDa8
 - 👀 I’m interested in data science,python automation and web development
-- 🌱 I’m currently learning professional python google automation
+- 🌱 I recently finished professional python google automation certificate
 - 💞️ I’m looking to collaborate on any python project and python automation to up my skills and gain experience
 - 📫 How to reach me through my email address(uabdul88@gmail.com) and twitter handle(@UsmanDanAbdull1)
 
